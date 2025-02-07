@@ -1,0 +1,87 @@
+
+.pixelify-sans-<uniquifier> {
+  font-family: "Pixelify Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+h2 {
+  font-family: "Pixelify Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  text-align: center;
+  padding: 50px;
+  color: #143D60;
+  background-color: #A0C878;;
+}
+
+h4{
+  font-family: "Pixelify Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  text-align: center;
+  padding: 10px;
+  color: #143D60;
+  size: 10%;
+}
+
+body {
+  background-color: #DDEB9D;
+}
+
+card {
+    font-family: "Pixelify Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  text-align: center;
+   color:  #A0C878;
+   border-color:#143D60;
+   padding: 10px;
+}
+
+.card-header {
+    font-family: "Pixelify Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  text-align: center;
+  padding: 10px;
+  background-color: #A0C878;
+  color: #143D60;
+}
+
+p {
+     font-family: "Pixelify Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  text-align: center;
+   color:  #143D60;
+   padding:5px;
+   font-size: 12;
+   margin: 4px;
+
+}
+
+hr {
+  color: #A0C878;
+}
+
+button {
+  align-items: center;
+  margin:10px;
+  padding: 5px;
+   font-family: "Pixelify Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  text-align: center;
+  background-color: #A0C878;
+  color: #143D60;
+  border-color: #27667B;
+  border-radius: 8px;
+}
